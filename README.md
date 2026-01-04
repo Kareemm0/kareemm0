@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Kareem Mohamed, a Flutter Developer with 2+ years of experience.<br>I build scalable mobile apps using Flutter and Kotlin Multiplatform (KMP).
+Hi, I’m Kareem Mohamed, a Flutter Developer .<br>I build scalable mobile apps using Flutter and Kotlin Multiplatform (KMP).
 
 
 ## 🌐 Socials:
